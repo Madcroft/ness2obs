@@ -81,8 +81,6 @@ Subject: CN=example.com
 Issuer: Let's Encrypt Authority
 ```
 ---
-```
-
 
 ## 🔧 Requisitos
 
