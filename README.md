@@ -83,7 +83,6 @@ Issuer: Let's Encrypt Authority
 ---
 ```
 
----
 
 ## 🔧 Requisitos
 
