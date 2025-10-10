@@ -67,4 +67,5 @@ def crear_archivo_md_syn_scanner(ips_afectadas, synscanner_dir):
     print(f"Archivo consolidado creado para Nessus SYN Scanner en: {ruta_archivo_vuln}")
 
 # Ruta al archivo .nessus
-leer_archivo_nessus_y_generar_md('PLAT-1_xn4dam.nessus')
+leer_archivo_nessus_y_generar_md('file.nessus')
+
