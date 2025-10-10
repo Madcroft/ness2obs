@@ -162,4 +162,5 @@ def leer_archivo_nessus_y_generar_md(ruta_archivo):
         crear_archivo_md_por_vulnerabilidad(data['vulnerabilidad'], data['ips_afectadas'])
 
 # Ruta al archivo .nessus
-leer_archivo_nessus_y_generar_md('PLAT-1_xn4dam.nessus')
+leer_archivo_nessus_y_generar_md('file.nessus')
+
