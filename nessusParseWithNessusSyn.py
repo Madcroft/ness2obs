@@ -202,4 +202,5 @@ def leer_archivo_nessus_y_generar_md(ruta_archivo):
 
 
 # Ruta al archivo .nessus
-leer_archivo_nessus_y_generar_md('FR nopinga_n5bop1.nessus')
+leer_archivo_nessus_y_generar_md('file.nessus')
+
