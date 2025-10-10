@@ -211,13 +211,6 @@ tags: [acme, web, perimeter]
 
 ---
 
-## 📄 Licencia
-
-Actualmente **no se ha publicado un archivo de licencia** en el repositorio.  
-Si deseas que sea software open source, añade una licencia (p. ej., **MIT** o **Apache-2.0**) en `LICENSE`.
-
----
-
 ## 👤 Autor & contacto
 
 - Autor del repo: **Madcroft**  
