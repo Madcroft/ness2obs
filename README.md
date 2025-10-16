@@ -162,7 +162,7 @@ tags: [acme, web, perimeter]
 
 ---
 
-## 🧭 Buenas prácticas para OSCP / Pentest Notes
+## 🧭 Pentest Notes
 
 - **Una carpeta por engagement** y por fecha/cliente.
 - **Evidencia siempre cerca del hallazgo** (capturas, PoCs, hashes, versiones).  
@@ -200,14 +200,6 @@ tags: [acme, web, perimeter]
 - [ ] Mapeo a CWE y mitre ATT&CK cuando se detecten CVEs.
 - [ ] Exportación adicional a **JSON/YAML** para pipelines.
 - [ ] Integración con **Nuclei**/**OpenVAS** en el futuro.
-
----
-
-## 🤝 Contribuir
-
-1. Haz un fork y crea una rama: `feature/mi-mejora`  
-2. Añade tests si aplica.  
-3. Abre un Pull Request explicando el cambio.
 
 ---
 
